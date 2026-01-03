@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://panic.com/transmit/images/share-twitter-image.png" width="200" alt="Panic Transmit application logo"><br>
- <a href="https://app-quick-app.github.io/.github/PanicTransmit">
+ <a href="https://gnomik-gomik-apps.github.io/.github/PanicTransmit">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Access Panic Transmit macOS">
  </a><br><br>
  <div align="center">
